@@ -7,4 +7,5 @@
     hello adding more file
     here are some git and git hub command
     which will help you 
-    adding all the cmd very important
+    adding all the cmd very importa`n*t
+    not all are imp
